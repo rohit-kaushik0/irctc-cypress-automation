@@ -1,24 +1,38 @@
 {
-  "TRAIN_NO": "13185",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAIN_NO": "14609",
+  "TRAIN_COACH": "SL",
+  "TRAVEL_DATE": "19/04/2025",
+  "SOURCE_STATION": "CDG",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
+  "DESTINATION_STATION": "SVDK",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Chirayu Jain",
+      "AGE": 19,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
+      "NAME": "Aniket ",
+      "AGE": 23,
+      "GENDER": "Male",
+      "SEAT": "No Preference",
+      "FOOD": "No Food"
+    }
+    {
+      "NAME": "Rohit Kaushik",
+      "AGE": 23,
+      "GENDER": "Male",
+      "SEAT": "No Preference",
+      "FOOD": "No Food"
+    }
+    {
+      "NAME": "Indhu",
+      "AGE": 19,
       "GENDER": "Female",
       "SEAT": "No Preference",
       "FOOD": "No Food"
